@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`change view type should render without crashing 1`] = `
+<div
+  className="change-view-type-config"
+>
+  <ul
+    className="view-types"
+  >
+    <li>
+      <a
+        className="active"
+        onClick={[Function]}
+        role="button"
+        title="Thumbnail view"
+      >
+        <i
+          className="fas fa-th-large"
+        />
+      </a>
+    </li>
+    <li>
+      <a
+        className=""
+        onClick={[Function]}
+        role="button"
+        title="Large view"
+      >
+        <i
+          className="fas fa-stop"
+        />
+      </a>
+    </li>
+  </ul>
+</div>
+`;

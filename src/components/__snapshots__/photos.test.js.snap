@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`photos should render without crashing 1`] = `
+<div
+  className="row"
+>
+  <Photo
+    author=""
+    description=""
+    farm={0}
+    id="1"
+    key="photo_id_1"
+    secret="secret 1"
+    server={1}
+    title="photo 1"
+    viewType="THUMBNAIL"
+  />
+  <Photo
+    author=""
+    description=""
+    farm={0}
+    id="2"
+    key="photo_id_2"
+    secret="secret 2"
+    server={1}
+    title="photo 2"
+    viewType="THUMBNAIL"
+  />
+</div>
+`;

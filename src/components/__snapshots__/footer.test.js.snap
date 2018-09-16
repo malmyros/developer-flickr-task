@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer should render without crashing 1`] = `
+<footer
+  className="text-muted pt-3 pb-3"
+>
+  <div
+    className="container"
+  >
+    <p
+      className="float-right"
+    >
+      <a
+        href="/#"
+        title="back to top"
+      >
+        Back to top
+      </a>
+    </p>
+    <p>
+      © 
+      PhotoStreamer
+       is a basic example of representing competence in building single page applications with 
+      <strong>
+        react
+      </strong>
+      <br />
+      while consuming 
+      <strong>
+        Flickr
+        's
+      </strong>
+       RESTful API.
+    </p>
+  </div>
+</footer>
+`;

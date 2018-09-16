@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`gallery stats should render without crashing 1`] = `
+<ul
+  className="gallery-stats"
+>
+  <li
+    className="mb-1 text-muted"
+  >
+    10
+     items
+  </li>
+  <li
+    className="mb-1 text-muted"
+  >
+    2
+     views
+  </li>
+  <li
+    className="mb-1 text-muted"
+  >
+    3
+     comments
+  </li>
+</ul>
+`;

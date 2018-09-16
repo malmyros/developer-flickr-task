@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`navbar should render without crashing 1`] = `
+<div
+  className="navbar navbar-dark bg-dark shadow-sm"
+>
+  <div
+    className="container d-flex justify-content-between"
+  >
+    <a
+      className="navbar-brand d-flex align-items-center"
+      href="/"
+      title="PhotoStreamer"
+    >
+      <strong>
+        PhotoStreamer
+      </strong>
+    </a>
+  </div>
+</div>
+`;

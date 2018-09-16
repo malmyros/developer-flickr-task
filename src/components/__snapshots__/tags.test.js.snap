@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tag should render without crashing 1`] = `
+<Fragment>
+  Tags: 
+  <Tag
+    key="tag_id_tag.id"
+    title=""
+  />
+  <Tag
+    key="tag_id_tag.id"
+    title=""
+  />
+  <Tag
+    key="tag_id_tag.id"
+    title=""
+  />
+</Fragment>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tag should render without crashing 1`] = `
+<span
+  className="btn btn-outline-secondary disabled mr-2 mb-2"
+>
+  title
+</span>
+`;
