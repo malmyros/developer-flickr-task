@@ -23,7 +23,7 @@ the flickr api. You can get one from here:
 [Apply for flickr's api key](https://www.flickr.com/services/apps/create/apply)
 
 Once you have received your api key you can replace the `#########`
-with your key in `api/index.js`.
+with your key in `./src/api/index.js`.
 
 4). Finally your start the app which will automatically open
 your browser in `http://localhost:3000` using:
