@@ -1,5 +1,5 @@
 const apiBaseUrl = 'https://api.flickr.com';
-const apiKey = 'e53bbd0a05d8d19159c5275bb8e8bb29';
+const apiKey = '###############';
 const galleryId = '72157671261543617';
 
 module.exports = {
