@@ -1,0 +1,34 @@
+.change-view-type-config {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.view-types {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    list-style-type: none;
+    margin-bottom: 1rem;
+    padding: 0;
+}
+
+.view-types li {
+    margin: 0 6px;
+}
+
+.view-types li a .fas {
+    cursor: pointer;
+    -webkit-transition: color 0.2s linear;
+    -moz-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+}
+
+.view-types li a.active {
+    color: #228be6;
+}
+
+.view-types li a:hover .fas {
+    color: #228be6;
+}

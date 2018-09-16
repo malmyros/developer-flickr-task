@@ -1,0 +1,10 @@
+/* TEAM */
+	UI developer: Michail Almyros
+	Twitter: @malmyros
+	From:Athens, Greece
+
+/* SITE */
+	Last update: 15/09/2018
+	Language: Greek / English
+	Doctype:HTML5
+	IDE: Intellj
